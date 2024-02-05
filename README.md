@@ -3,7 +3,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [View Project]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/mackvngtech/createdirectorylab/tree/main))
+  - [View Project]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/mackvngtech/createdirectorylab/tree/main)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
